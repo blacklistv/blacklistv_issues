@@ -10,7 +10,7 @@ Bevor du einen Fehler Meldest, vergewissere dich bitte, das dieser nicht bereits
 Die Liste der aktuellen Fehler findest du oben im Reiter [Issues](https://github.com/blacklistv/blacklistv_issues/issues)
 
 Falls der Fehler wirklich noch nicht bekannt ist, kannst du ein neuen Issue erstellen. Dazu gehst du ebenfalls auf den Reiter ``Issues`` und klickst rechts auf den grünen Button ``New Issue``.
-Dort findest du das Template ``Bug Report`` und rechts den Button ``Get Started``. Dort klickst du drauf, oder du benutzt den Direktlink: [BlacklistV Fehler melden](https://github.com/blacklistv/blacklistv_issues/tree/ebe47d31a21709711004f3dbe3747e3bbb2005b8/template/bug-report.md&title=).
+Dort findest du das Template ``Bug Report`` und rechts den Button ``Get Started``. Dort klickst du drauf, oder du benutzt den Direktlink: [BlacklistV Fehler melden](https://github.com/blacklistv/blacklistv_issues/issues/new/choose).
 Du findest dann dort eine Vorlage für deinen Bug-Report. Bitte füllt diesen, so weit es geht, vollständig aus. Gut sind auch immer Videos und Bilder von dem Fehler, sodass wir diesen selbst schnell reproduzieren und beheben können.
 
 Bitte denke auch daran ggf. in der F8 Console die vorhandene Fehlermeldung mit anzugeben. Diese Hilft uns in vielen Fällen weiter.
